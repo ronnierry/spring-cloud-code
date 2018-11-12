@@ -1,0 +1,5 @@
+feign:
+  httpcllient:
+    enabled: true
+server:
+  port: 8010
