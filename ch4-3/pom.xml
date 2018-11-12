@@ -14,6 +14,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>ch4-3-httpclinet</module>
+        <module>ch4-3-okhttp</module>
     </modules>
 
 
